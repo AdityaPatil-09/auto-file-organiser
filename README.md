@@ -14,5 +14,5 @@ A simple Python script that organizes your Downloads folder by file type.
 2. Make sure Python is installed
 3. Run:
 
-bash
+bash- 
 python File_organiser.py
