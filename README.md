@@ -20,4 +20,4 @@ A simple Python script that organizes your Downloads folder by file type.
 -------------------------------------------------------------------
 ***If you have "Downloads" folder else where in your device, use this line----> 
                   downloads_path = " path name towards downloads "      
-                  instead of --->   download_path= os.path.expanduser("~/Downloads")
+                  instead of --->   downloads_path= os.path.expanduser("~/Downloads")
