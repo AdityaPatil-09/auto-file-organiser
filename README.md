@@ -13,6 +13,11 @@ A simple Python script that organizes your Downloads folder by file type.
 1. Open VS Code or terminal
 2. Make sure Python is installed
 3. Run:
+-------------------------------------------------------------------
+***bash command to run this code-  
+         python File_organiser.py
 
-bash- 
-python File_organiser.py
+-------------------------------------------------------------------
+***If you have "Downloads" folder else where in your device, use this line----> 
+                  downloads_path = " path name towards downloads "      
+                  instead of --->   download_path= os.path.expanduser("~/Downloads")
